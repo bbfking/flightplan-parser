@@ -1,0 +1,44 @@
+Configuration:
+  status: warn
+
+  Appenders:
+    Console: #输出结果到System.out 或是System.err
+      name: Console
+      target: SYSTEM_OUT
+      PatternLayout:
+        Pattern: "%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"
+    RollingFile: #自动追加信息到文件中，直至文件达到预定的大小，然后自动重新生成另一个文件来记录之后的日志。
+      - name: RollingFile
+        fileName: logs/fltplan-parser.log
+        filePattern: "logs/$${date:yyyy-MM}/monitor-app-%d{yyyy-MM-dd}-%i.log"
+        PatternLayout:
+          Pattern: "%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"
+        ThresholdFilter:
+          level: INFO
+        Policies:
+          TimeBasedTriggeringPolicy:
+            modulate: true
+            interval: 1 #单位基于fimePattern中文件时间
+          SizeBasedTriggeringPolicy:
+            size: 200 MB
+      - name: ErrorFile #error级别的告警，单独保存
+        fileName: logs/error-fltplan-parser.log
+        filePattern: "logs/$${date:yyyy-MM}/error-%d{yyyy-MM-dd}-%i.log"
+        PatternLayout:
+          Pattern: "%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"
+        ThresholdFilter:
+          level: ERROR
+        Policies:
+          TimeBasedTriggeringPolicy:
+            modulate: true
+            interval: 1
+          SizeBasedTriggeringPolicy:
+            size: 200 MB
+
+  Loggers:
+    Root:
+      level: info
+      AppenderRef:
+       - ref: ErrorFile
+       - ref: RollingFile
+       - ref: Console

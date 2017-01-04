@@ -1,0 +1,1521 @@
+BRFLCZ  3982 20DEC201620DEC201620DEC201620DEC2016SYX  CGO     D06010100CZ    YYN106OFPL01975700019111ATCL00081601994811SHOF00041802076411GINF00028102118211NOTA05783202146311LIDB00013807929511           CHINA SOUTHERN AIRLINES FLIGHT RELEASE                   
+
+CHINA SOUTHERN AIRLINES  -  DISPATCH RELEASE STD/1300   20DEC16
+SU YI                                         DOC NO   1   
+
+CSN   3982 /20  1300Z        ZJSY - ZHCC     1ST ALTN ZBHH
+
+AIRCRAFT   B5040  IFR TAKEOFF FUEL 13.0T  TOTAL FUEL 13.3T  .....
+     
+(2ND ALTN FOR DESTINATION____________)
+ 
+ 
+(FPL-CSN3982-IS                                                     
+-B738/M-SDE1E2E3FGHIRW/L                                            
+-ZJSY1300                                                           
+-K0853S0890 WL G221 NYB V12 AGPOR H81 LH/K0870S0920 R339 BHY H82    
+ LBN/K0846S0950 R343 LKO A461 ZHO                                   
+-ZHCC0234 ZBHH                                                      
+-PBN/A1B1C1D1L1O1S2 NAV/ABAS DOF/161220 REG/B5040 EET/ZGZU0023      
+ ZHWH0143 SEL/AMDJ OPR/CHINA SOUTHERN RMK/ACASII)                   
+ 
+DISPATCHER ON DUTY SIGNATURE:        SU YI
+                               ..........................
+TEL: 020-28237981
+
+STATION DISPATCHER/DELIVERY AGENT SIGNATURE:
+                                            ........................
+
+I CERTIFY THAT THIS FLIGHT HAS BEEN DISPATCHED IN ACCORDANCE WITH
+APPLICABLE REGULATIONS, AND RECEIVED THE FOLLOWING DOCUMENTS:
+DISPATCH RELEASE, FLIGHT PLAN, WEATHER AND NOTAM.
+
+PILOT  IN  COMMAND SIGNATURE:
+                               ..........................
+
+AMENDMENT LOG (RECORD ANY CHANGES OF INITIAL DISPATCH RELEASE)
+
+TIME.........NEW ITEM.......................PIC.........DISP........
+
+TIME.........NEW ITEM.......................PIC.........DISP........
+
+TIME.........NEW ITEM.......................PIC.........DISP........
+
+REMARK..............................................................
+----------------------  START OF FLIGHT PLAN  ----------------------
+CSN3982  20DEC2016  ZJSY 1300 - ZHCC 1549 ALTN ZBHH
+ACFT B5040 B737-800W,CFM56-7B26                      FUEL BIAS P00.0
+
+DISP SU YI/020-28237981
+OFP 1        RLS 1104 20DEC16
+WX PROG 2012 2015 2018                                    OBS 200600
+AVG WIND 263/053            AVG W/C P022                AVG ISA P009
+AVG TAS/GS 420/440                                AVG FF KGS/HR 2754
+CLB 280/M.75  CRZ CI35  DSC 300/M.77
+
+ROUTE NO. SYXCGO01                     GND/AIR DIST 1129 NM /1080 NM
+ZJSY WL G221 NYB V12 AGPOR H81 LH R339 BHY H82 LBN R343 LKO A461 ZHO
+ZHCC
+
+FL 291 LH 301 LBN 311 
+
+                   ALL WEIGHTS IN KILOS
+ETOW  069765 ELDW  062690 EZFW  056753 EPLD  013835
+MTOW  073255 MLDW  065317 MZFW  061688 APLD  .....
+RTOW  073230
+                                                                    
+TARGET ARRIVAL FUEL        5937KGS
+
+DEST  ZHCC   007075    0234
+      
+RSVR  FUEL   001726    0045
+ALTN  ZBHH   003211    0105
+HOLD  FUEL   000000    0000
+EXTR  FUEL   001000    0022
+TKOF  FUEL   013012    0446
+      
+TAXI  OUTF   000251    0015
+LOAD  FUEL   013263    0501
+     
+EXTR FUEL INCLUDES: OPN 1000                                        
+                            
+--------- --------- --------- TANKERING --------- --------- --------
+NO TANKERING RECOMMENDED            LOSS FOR EXTRA FUEL: 20 USD/TON
+
+                         FUEL ADJUSTMENTS 
+ZFW CHG PS 1000  BOF  +125 KGS / MS 1000 BOF -127 KGS
+TOW UP 1000 KGS  BOF   +54 KGS TIME -0000 ZJSY/291 LH/301 LBN/311 
+TOW DN 1000 KGS  BOF   -56 KGS TIME +0000 ZJSY/291 LH/301 LBN/311 
+1FL UP           BOF  -196 KGS TIME -0002 ZJSY/311 LH/321 LBN/331 
+1FL DN           BOF  +251 KGS TIME +0003 ZJSY/266 LH/276 LBN/291 
+2FL DN           BOF  +470 KGS TIME +0006 ZJSY/246 LH/256 LBN/266 
+CI 80            BOF  +171 KGS TIME -0005 ZJSY/291 LH/301 LBN/311 
+CI 0             BOF  -125 KGS TIME +0011 ZJSY/291 LH/301 LBN/311 
+                         ALTERNATE SUMMARY
+ALTN          MORA  DIST  FL    W/C     TIME   DIFF   FUEL  DIFF    
+ZBHH/HET/08     81   412  341   P009    0105          3211
+DIV RTE - ZHCC TAMIX B208 HET ZBHH                                  
+                                 
+ZBOW/BAV/13     81   471  341   P004    0114   +0009  3530   +319
+DIV RTE - ZHCC TAMIX B208 TODAM W560 IRVAG A596 REPEP ZBOW          
+                                                         
+ZBYN/TYN/31     65   210  256   P003    0039   -0026  2235   -976
+DIV RTE - ZHCC TAMIX B208 ANPIG ZBYN                                
+                                   
+                                                                    
+RVSM ALTIMETER CHECK (RVSM AIRSPACE ONLY):
+
+AIRPORT ELEVATION  :........FEET    QNH/QFE:......../........HPA
+
+LEFT  ALTIMETER DIS:........FEET    (MAX DIFF<75 FEET)
+
+RIGHT ALTIMETER DIS:........FEET    (MAX DIFF<75 FEET)
+
+PASSING TRANS  ALTITUDE SET 1013.2HPA          (MAX DIFF<150 FEET)
+CHECK:  PRIMARY(            )         STANDBY(               )
+REACHING CFL   ALTITUDE SET 1013.2HPA          (MAX DIFF<200 FEET)
+RECHECK:PRIMARY(            )         STANDBY(               )
+ENTRY CLASS II NAVIGATION AREA RECORDED ALTIMETER VALUE:
+
+LEFT    ALTIMETER DIS:........FEET  RIGHT ALTIMETER DIS.......FEET
+
+STANDBY ALTIMETER DIS:........FEET
+     
+DEP ATIS:
+         ...........................................................
+(      )
+         ...........................................................
+
+DEP CLNC:
+         ...........................................................
+
+         ...........................................................
+
+BLOCK IN   ......    ON   ......     T/O  ......    T/O FUEL  ......
+
+BLOCK OUT  ......    OFF  ......     ETE  ......    LDG FUEL  ......
+
+TOTAL      ......    TOTAL......     ETA  ......      F USED  ......
+
+
+FL  ATA ZTM/TTME POSN  ETA   AWY     DST DTGO  MACH TAS WIND   EFR
+OAT              MORA        MTK/TTK TP        WS   GS         AFR
+--------------------------------------------------------------------
+CLB     006/0000 ZJSY/08     DCT     022 1129  CLB      081007 013.0
+   ....          054   ..... 359/358 548            239 .....  .....
+--------------------------------------------------------------------
+CLB     007/0006 WL          G221    046 1107  CLB      210013 012.3
+   ....          070   ..... 029/028 546            384 .....  .....
+--------------------------------------------------------------------
+CLB     001/0013 P472        G221    006 1061  CLB      314031 011.6
+   ....          058   ..... 029/028 548            423 .....  .....
+--------------------------------------------------------------------
+CLB     001/0014 GIVIL       G221    007 1055  CLB      306029 011.6
+   ....          056   ..... 022/021 549            424 .....  .....
+--------------------------------------------------------------------
+CLB     001/0015 P473        G221    010 1048  CLB      297029 011.5
+   ....          056   ..... 022/021 551            439 .....  .....
+--------------------------------------------------------------------
+CLB     004/0016 TOC         G221    032 1038  CLB  461 277033 011.4
+   ....          056   ..... 022/021 554            469 .....  .....
+--------------------------------------------------------------------
+291     002/0020 NYB         V12     018 1006  .754 461 273037 011.2
+M27....          020   ..... 018/017 561       06   468 .....  .....
+--------------------------------------------------------------------
+291     002/0022 AGPOR       H81     012 0988  .754 461 273039 011.1
+M27....          020   ..... 018/017 559       07   468 .....  .....
+--------------------------------------------------------------------
+        000/0024 -ZGZU               000 0976  .754 463 273041 011.0
+                 GUANGZHOU FIR                          .....  .....
+--------------------------------------------------------------------
+291     005/0024 P102        H81     038 0976  .757 463 273041 011.0
+M27....          020   ..... 005/004 559       07   460 .....  .....
+--------------------------------------------------------------------
+291     008/0029 LH          R339    057 0938  .772 470 274046 010.8
+M27....          020   ..... 299/298 557       08   425 .....  .....
+--------------------------------------------------------------------
+301     006/0037 BHY         H82     042 0880  .765 465 271051 010.4
+M29....          035   ..... 354/353 557       08   452 .....  .....
+--------------------------------------------------------------------
+301     004/0043 P125        H82     026 0838  .766 465 277058 010.1
+M30....          038   ..... 355/353 563       07   445 .....  .....
+--------------------------------------------------------------------
+301     009/0046 P20         H82     064 0812  .766 463 279062 009.9
+M31....          047   ..... 355/353 565       06   441 .....  .....
+--------------------------------------------------------------------
+301     008/0055 LBN         R343    066 0748  .759 457 279069 009.5
+M32....          042   ..... 035/034 562       04   486 .....  .....
+--------------------------------------------------------------------
+311     005/0103 ENKUS       R343    038 0682  .758 455 276078 009.2
+M34....          050   ..... 036/034 569       03   488 .....  .....
+--------------------------------------------------------------------
+311     003/0108 MAMSI       R343    026 0644  .756 455 276083 009.0
+M35....          062   ..... 036/034 569       02   490 .....  .....
+--------------------------------------------------------------------
+311     002/0111 VQ          R343    013 0618  .756 455 275086 008.8
+M35....          090   ..... 033/032 567       01   488 .....  .....
+--------------------------------------------------------------------
+311     007/0113 ONEMI       R343    059 0604  .755 453 274087 008.8
+M35....          090   ..... 033/031 568       01   490 .....  .....
+--------------------------------------------------------------------
+311     003/0120 P246        R343    024 0546  .752 451 269091 008.5
+M35....          067   ..... 036/033 575       02   500 .....  .....
+--------------------------------------------------------------------
+311     002/0123 P378        R343    018 0522  .752 451 265090 008.3
+M36....          058   ..... 032/030 574       05   500 .....  .....
+--------------------------------------------------------------------
+311     008/0125 P347        R343    063 0504  .749 449 262090 008.2
+M36....          060   ..... 034/032 573       06   504 .....  .....
+--------------------------------------------------------------------
+311     011/0132 LLC         R343    094 0441  .748 443 253081 007.9
+M38....          040   ..... 038/035 571       08   505 .....  .....
+--------------------------------------------------------------------
+        000/0143 -ZHWH               000 0346  .748 443 246073 007.5
+                 WUHAN FIR                              .....  .....
+--------------------------------------------------------------------
+311     005/0144 GOSMA       R343    041 0346  .747 441 246073 007.5
+M41....          040   ..... 038/035 501       07   501 .....  .....
+--------------------------------------------------------------------
+311     011/0148 LKO         A461    093 0305  .749 441 247073 007.3
+M43....          039   ..... 027/024 548       05   493 .....  .....
+--------------------------------------------------------------------
+311     003/0200 HOK         A461    024 0212  .754 443 246073 006.8
+M44....          038   ..... 009/005 380       03   474 .....  .....
+--------------------------------------------------------------------
+311     005/0203 ESDOS       A461    037 0188  .754 443 247072 006.7
+M45....          038   ..... 008/005 369       02   471 .....  .....
+--------------------------------------------------------------------
+311     005/0207 OBLIK       A461    042 0151  .755 443 247071 006.5
+M45....          020   ..... 009/005 350       03   468 .....  .....
+--------------------------------------------------------------------
+311     005/0213 TOD         A461    038 0109  .770     251071 006.3
+M46....          020   ..... 009/005 352            447 .....  .....
+--------------------------------------------------------------------
+DES     009/0218 ZHO         ZHO11A  049 0071  DES      249028 006.2
+   ....          020   ..... 328/324 361            320 .....  .....
+--------------------------------------------------------------------
+DES     007/0227 DWS         ZHO11A  022 0022  DES      105014 006.1
+   ....          020   ..... 319/315 365            189 .....  .....
+--------------------------------------------------------------------
+            0234 ZHCC/30R                                      005.9
+--------------------------------------------------------------------
+
+ARR ATIS:
+         ...........................................................
+(       )
+         ...........................................................
+
+ 
+                  WAYPOINT AND WIND DIRECTION/SPEED 
+      FL100       FL150       FL200       FL310       FL350
+CLIMB 19/013 P09  25/013 P02  30/019 M07  26/036 M31  26/039 M42  
+ 
+--------|----------|------|------|------|------|------|------|------
+POS/FRQ |   COORD  | 100  | 250  | 310  | 330  | 350  | 370  | 390
+--------|----------|------|------|------|------|------|------|------
+ZJSY    |N18 18.2  |      |      |      |      |      |      |
+        |E109 24.7 |      |      |      |      |      |      |
+--------|----------|------|------|------|------|------|------|------
+WL      |N18 29.4  |      |      |      |      |      |      |
+426     |E109 24.3 |      |      |      |      |      |      |
+--------|----------|------|------|------|------|------|------|------
+P472    |N19 09.8  |      |      |      |      |      |      |
+        |E109 47.1 |      |      |      |      |      |      |
+--------|----------|------|------|------|------|------|------|------
+GIVIL   |N19 15.0  |      |      |      |      |      |      |
+        |E109 50.0 |      |      |      |      |      |      |
+--------|----------|------|------|------|------|------|------|------
+P473    |N19 21.7  |      |      |      |      |      |      |
+        |E109 52.7 |      |      |      |      |      |      |
+--------|----------|------|------|------|------|------|------|------
+TOC     |N19 31.3  | P09  | M17  | M31  | M37  | M42  | M47  | M52
+        |E109 56.5 |20/015|31/034|26/036|26/038|26/039|26/039|25/040
+--------|----------|------|------|------|------|------|------|------
+NYB     |N20 00.8  | P08  | M18  | M31  | M36  | M42  | M47  | M52
+113.3   |E110 08.3 |20/016|31/037|26/040|26/043|26/043|26/044|26/043
+--------|----------|------|------|------|------|------|------|------
+AGPOR   |N20 18.2  | P08  | M18  | M31  | M36  | M42  | M47  | M52
+        |E110 13.8 |20/017|31/039|26/042|26/046|26/046|26/046|26/046
+--------|----------|------|------|------|------|------|------|------
+P102    |N20 30.0  | P08  | M18  | M31  | M36  | M42  | M47  | M52
+        |E110 17.6 |20/018|31/041|26/044|26/048|26/049|26/049|26/048
+--------|----------|------|------|------|------|------|------|------
+LH      |N21 08.0  | P07  | M18  | M31  | M36  | M42  | M47  | M52
+356     |E110 20.1 |21/021|30/045|26/049|25/054|26/055|26/055|26/055
+--------|----------|------|------|------|------|------|------|------
+BHY     |N21 35.1  | P07  | M19  | M31  | M36  | M42  | M47  | M52
+117.1   |E109 26.0 |22/025|30/048|26/053|26/058|26/059|26/060|26/060
+--------|----------|------|------|------|------|------|------|------
+P125    |N22 16.9  | P06  | M19  | M32  | M36  | M41  | M47  | M52
+        |E109 20.5 |22/029|29/051|27/059|26/063|26/066|26/067|26/067
+--------|----------|------|------|------|------|------|------|------
+P20     |N22 42.8  | P06  | M19  | M32  | M36  | M41  | M47  | M52
+        |E109 17.1 |22/031|29/053|27/063|26/066|26/070|26/071|26/071
+--------|----------|------|------|------|------|------|------|------
+LBN     |N23 45.9  | P05  | M19  | M34  | M37  | M42  | M46  | M51
+113.7   |E109 08.7 |22/035|28/059|28/070|27/074|26/078|26/081|26/082
+--------|----------|------|------|------|------|------|------|------
+ENKUS   |N24 40.7  | P05  | M19  | M34  | M38  | M42  | M47  | M51
+        |E109 49.2 |22/037|27/063|28/078|27/080|27/084|26/087|26/087
+--------|----------|------|------|------|------|------|------|------
+MAMSI   |N25 12.3  | P04  | M20  | M35  | M38  | M42  | M47  | M51
+        |E110 12.7 |22/038|27/064|28/083|27/084|27/087|26/090|26/091
+--------|----------|------|------|------|------|------|------|------
+VQ      |N25 33.6  | P04  | M20  | M35  | M39  | M43  | M47  | M51
+398     |E110 28.7 |22/038|26/063|28/086|27/087|27/089|26/092|26/093
+--------|----------|------|------|------|------|------|------|------
+ONEMI   |N25 45.1  | P04  | M21  | M35  | M39  | M43  | M47  | M51
+        |E110 36.5 |22/038|26/063|27/087|27/088|27/090|26/093|26/094
+--------|----------|------|------|------|------|------|------|------
+P246    |N26 35.0  | P03  | M22  | M35  | M39  | M43  | M47  | M51
+        |E111 10.4 |23/035|25/060|27/090|27/093|27/094|27/096|26/098
+--------|----------|------|------|------|------|------|------|------
+P378    |N26 55.1  | P03  | M23  | M36  | M39  | M43  | M47  | M51
+        |E111 25.1 |22/032|25/058|26/089|27/096|27/097|27/097|26/098
+--------|----------|------|------|------|------|------|------|------
+P347    |N27 10.4  | P03  | M23  | M36  | M39  | M43  | M47  | M51
+        |E111 35.2 |22/030|24/056|26/089|27/097|27/098|27/098|26/099
+--------|----------|------|------|------|------|------|------|------
+LLC     |N28 04.0  | P02  | M24  | M39  | M41  | M44  | M48  | M51
+116.2   |E112 12.6 |22/025|24/054|25/080|26/092|26/099|27/103|27/104
+--------|----------|------|------|------|------|------|------|------
+GOSMA   |N29 21.2  | P01  | M26  | M42  | M45  | M47  | M49  | M51
+        |E113 14.5 |22/022|23/050|25/072|25/084|26/096|26/102|27/105
+--------|----------|------|------|------|------|------|------|------
+LKO     |N29 54.5  | P01  | M28  | M43  | M47  | M48  | M50  | M52
+115.8   |E113 41.4 |22/020|23/046|25/073|25/083|25/094|26/100|26/105
+--------|----------|------|------|------|------|------|------|------
+HOK     |N31 19.4  | P01  | M29  | M44  | M49  | M52  | M53  | M54
+116     |E114 25.7 |22/013|24/043|25/073|25/074|25/079|26/086|26/093
+--------|----------|------|------|------|------|------|------|------
+ESDOS   |N31 43.3  | P00  | M29  | M45  | M50  | M53  | M54  | M54
+        |E114 28.1 |22/013|25/043|25/072|25/075|25/080|26/087|26/093
+--------|----------|------|------|------|------|------|------|------
+OBLIK   |N32 19.8  | M00  | M30  | M45  | M51  | M54  | M55  | M55
+        |E114 31.5 |23/014|25/042|25/071|25/077|25/081|25/087|26/092
+--------|----------|------|------|------|------|------|------|------
+TOD     |N33 01.8  | M01  | M30  | M46  | M51  | M55  | M56  | M56
+        |E114 35.5 |22/012|25/042|25/070|25/078|25/083|25/087|26/091
+--------|----------|------|------|------|------|------|------|------
+ZHO     |N33 39.8  |      |      |      |      |      |      |
+115.5   |E114 39.2 |      |      |      |      |      |      |
+--------|----------|------|------|------|------|------|------|------
+DWS     |N34 19.3  |      |      |      |      |      |      |
+117.4   |E114 04.8 |      |      |      |      |      |      |
+--------|----------|------|------|------|------|------|------|------
+ZHCC    |N34 31.2  |      |      |      |      |      |      |
+        |E113 50.5 |      |      |      |      |      |      |
+--------|----------|------|------|------|------|------|------|------
+                                                                    
+        FL390       FL350       FL310       FL200       FL100 
+DESCENT 26/091 M56  25/083 M55  25/070 M46  25/032 M20  21/011 M02  
+                                                                    
+     
+----------------------   END OF FLIGHT PLAN   ----------------------
+     
+FF ZJSYUOXX ZJSYZPZX ZJSYZRZX ZGGGZBZX ZBBBZGZX ZBPEZMFP ZSHAZMFP   ZGACZQZX ZGGGZRZX ZGZJZRZX ZGZJZXZX ZGNNZXZX ZGNNZRZX ZHWHZRZX      ZBAAZBZX ZBAAZXZX ZHCCZRZX ZHCCZPZX ZHCCZTZX ZHCCZXZX               201105 ZGGGUOCZ                                                     (FPL-CSN3982-IS                                                     -B738/M-SDE1E2E3FGHIRW/L                                            -ZJSY1300                                                           -K0853S0890 WL G221 NYB V12 AGPOR H81 LH/K0870S0920 R339 BHY H82     LBN/K0846S0950 R343 LKO A461 ZHO                                   -ZHCC0234 ZBHH                                                      -PBN/A1B1C1D1L1O1S2 NAV/ABAS DOF/161220 REG/B5040 EET/ZGZU0023       ZHWH0143 SEL/AMDJ OPR/CHINA SOUTHERN RMK/ACASII)                   
+OFP SUMMARY
+***********
+                                                                
+
+                                                                
+OFP    ROUTE       TRIP  TIME PLNTOF TAXI  PZFW  DIST  WC   ALTN
+1/0/0  SYXCGO01     7.1 02:34   13.0  0.3  56.8  1129  P022 ZBHH
+
+ROUTE  ZJSY/08K0853S0890 WL G221 NYB V12 AGPOR H81 LH/K0870S0920
+       R339 BHY H82 LBN/K0846S0950 R343 LKO A461 ZHOZHCC/30R
+     ZJSYZHCCZBHHSYX  CGO  HET  K02027102754061688 6531707348173229.B5040    CZ   NN02510070750132630036270567530000000000M00000015400150286YI                            20 28235 700                                                       L  0                                  0286     00CSN-NOTAM-BULLETIN INCLUDES NOTAM, COMP NOTAM AND AIP-REGULATION
+VALID: 1612201300 - 1612201954  STD(EOBT)+TRIP+ALTN+3HRS
+CSN3982/20DEC      OFP-NR: 1
+ROUTE:    ZJSY - ZHCC   ALTN:ZBHH ZBOW ZBYN
+K0853S0890 WL G221 NYB V12 AGPOR H81 LH/K0870S0920 R339 BHY H82
+LBN/K0846S0950 R343 LKO A461 ZHO
+
+=================
+DEPARTURE AIRPORT
+=================
+
+ZJSY /SYX   SANYA/FENGHUANG - DETAILED INFO
+-------------------------------------------
+++++++++++++++++++++++++++++++ RUNWAY ++++++++++++++++++++++++++++++
+ZC701799/16
+地点:ZJSY
+VALID(北京时):1606211510  -- 1612312359  EST
+因受超高障碍物影响，暂时调整RWY26 标准仪表离场程序如下:
+1. 参阅NAIP 航图手册ZJSY-3B, 起飞后保持梯度不低于百分之5.1, 直到650 
+米(2,200 英尺).
+2. 参阅NAIP 航图手册ZJSY-3D, 起飞后保持梯度不低于百分之5.1, 直到650 
+米(2,200 英尺).
+
+ZG1210/16                         VALID: 1606210710 - 1612311559 EST
+  REF AIP CHINA ZJSY AD2.24-7B AND 2.24-7D DEPARTING ACFT SHALL
+  CLIMB WITH GRADIENT NOT LESS THAN 5.1 PERCENT TO 650M/2200FT AFTER
+  TAKE-OFF.
+++++++++++++++++++++++++ APPROACH PROCEDURE ++++++++++++++++++++++++
+ZC702801/16
+地点:ZJSY
+VALID(北京时):1609051612  -- 1703052359  EST
+RWY08 LOC 'IKK' 109.5MHZ 限制性使用:
+1. 前航道17 海里至25 海里段,+7 度以外不可用,
+2. 前航道15 海里至17 海里段,+13 度以外不可用,
+3. 前航道15 海里以内,+25 度以外不可用.
+
+ZC702789/16
+地点:ZJSY
+VALID(北京时):1609042045  -- 1703032359
+三亚VOR'SYX'112.5MHZ 限制性使用:
+1.5 度径向线顺时针至20 度径向线之间不可用；
+2.100 度径向线顺时针至105 度径向线之间不可用.
+
+ZG1881/16                         VALID: 1609050812 - 1703051559 EST
+  LOC ''IKK''/109.5MHZ FOR RWY08 LIMITED TO USE:
+  1. BTN 17NM-25NM, BEYOND 007DEG LEFTSIDE OF FRONT COURSE U/S.
+  2. BTN 15NM-17NM, BEYOND 013DEG LEFTSIDE OF FRONT COURSE U/S.
+  3. WI 15NM, BEYOND 025DEG LEFTSIDE OF FRONT COURSE U/S.
+ZG1878/16                             VALID: 1609041245 - 1703031559
+  VOR/DME ''SYX'' 112.5MHZ LIMITED TO USE:
+  1.ON RADIAL 005DEG-020DEG CLOCKWISE U/S,
+  2.ON RADIAL 100DEG-105DEG CLOCKWISE U/S.
++++++++++++++++++++++++++++++ AIRPORT ++++++++++++++++++++++++++++++
+ZC703876/16
+地点:ZJSY
+VALID(北京时):1611302000  -- 1701010800
+20:00-08:00(NEXT DAY) DLY
+机场不接收非紧急情况的航班备降, 因停机位紧张.
+
+ZC703686/16
+地点:ZJSY
+VALID(北京时):1611180001  -- 1701312359
+10 、12 号机位不提供使用, 因施工。
+
+ZC703513/16
+地点:ZJSY
+VALID(北京时):1611021900  -- 1612312359  EST
+机场周边新增临时障碍物塔吊( 相对跑道中心点):
+ 障碍物名称    磁方位            距离( 米)            坐标              海拔高度( 米)  
+ 塔吊      94 度25 分36.278 秒   1,077.65  N181807.89205E1092520.76221    43.94
+ 以上新增临时障碍物安装有障碍物灯.
+
+ZC701928/16
+地点:ZJSA
+VALID(北京时):1606291251  -- 1612312359  EST
+百色VOR以远方向往返三亚凤凰机场班机航线调整为:
+去程班机航线调整为: 
+主用航线为百色VOR以远方向经百色VOR,R339-南宁VOR,W169-RUNEG,V40-KAGUK,G221-三亚VOR至三亚凤凰. 
+备用航线为百色VOR以远方向经百色VOR,R339-南宁VOR,W169-RUNEG,V41-抱龙NDB 至三亚凤凰. 
+管制部门认为有必要时,方引导航班沿现行航线飞行.
+回程班机航线调整为: 
+主用航线按现行. 
+备用航线为三亚凤凰经三亚VOR-G221,KAGUK-V40,RUNEG-W169,南宁VOR-R339至百色
+VOR以远方向,
+或三亚凤凰经抱龙NDB-V41,RUNEG-W169,南宁VOR-R339至百色VOR以  远方向. 
+备用航线使用BY ATC.
+来宾VOR以远方向往返三亚凤凰机场班机航线暂按现行执行.
+
+ZC701927/16
+地点:ZJSA
+VALID(北京时):1606291244  -- 1612312359  EST
+新增三亚凤凰去往厦门, 福州, 
+温州, 宁波, 青岛, 大连, 杭州, 常
+州, 南昌, 南京, 合肥, 济南, 临沂, 
+扬州, 上海虹桥, 釜山的班机航线走向:
+ 三亚凤凰,W170SAVNO,W171LENKO,A1IKELA,P901IDOSI DCT CH 
+A461BEKOL,A461 石龙VOR,G471 后加入现行班机航线走向.
+ 新增三亚凤凰去往香港的班机航线走向:
+ 三亚凤凰,W170SAVNO,W171LENKO,A1IKELA 至香港. 
+回程按现行.
+ 现有班机航线作为备用, 具体执行听从管制指令.
+ 使用A1 航段的航空器和机组需满足RNP-10 运行要求, 机组需有英
+语通话能力.
+
+ZC701798/16
+地点:ZJSY
+VALID(北京时):1606211500  -- 1612312359  EST
+08 号跑道入口西南侧有新增临时障碍物( 建筑物), 位置及高度如下:
+ 位于跑道中心点磁方位246 度43 分, 距跑道中心3274.6 米, 海拔高度89.77 米, 
+ 坐标:N181726E1092258.04. 障碍物安装有障碍物灯光.
+
+ZC701797/16
+地点:ZJSY
+VALID(北京时):1606211500  -- 1612312359  EST
+机场周边新增临时障碍物塔吊( 相对跑道中心点):
+ 障碍物名称    磁方位          距离(米)         坐标              海拔高度( 米)  
+ 塔吊      176 度02 分36 秒   1,048.14     N181736.53E1092446.70    79.52
+ 以上新增临时障碍物安装有障碍物灯.
+
+ZA1543/16                         VALID: 1606290632 - 1612311559 EST
+  SCHEDULED FLIGHTS FROM POINTS BEYOND BOSE VOR ''BSE'' TO
+  SANYA/PHOENIX AIRPORT (ZJSY) ADJUSTED AS FOLLOWING:
+  1.ACFT FROM BOSE VOR ''BSE'' AND POINTS BEYOND TO SANYA/PHOENIX
+  AIRPORT (ZJSY):
+  1) PRIMARY ROUTE: ACFT SHALL FLY ALONG BOSE VOR ''BSE'', R339,
+  NANNING VOR ''WUY'', W169, RUNEG, V40, KAGUK, G221, SANYA VOR
+  ''SYX''.
+  2) SECONDARY ROUTE: ACFT SHALL FLY ALONG BOSE VOR ''BSE'', R339,
+  NANNING VOR ''WUY'', W169, RUNEG, V41, BAOLONG NDB ''WL''.
+  IF IT IS NECESSARY CONSIDERED BY ATC, ACFT SHALL USE THE CURRENT
+  RTE FOR SCHEDULED FLIGHTS(ORIGINAL RTE FOR SCHEDULED FLT )
+  VECTORED BY ATC.
+  2.ACFT TAKE-OFF FROM SANYA/PHOENIX AIRPORT (ZJSY) TO BOSE VOR
+  ''BSE'' AND POINTS BEYOND:
+  1) PRIMARY ROUTE: THE CURRENT RTE FOR
+  SCHEDULED FLIGHTS(ORIGINAL RTE FOR SCHEDULED FLT).
+  2) SECONDARY ROUTE:
+  2.1)ACFT SHALL FLY ALONG SANYA VOR ''SYX'', G221, KAGUK, V40,
+  RUNEG, W169, NANNING VOR ''WUY'', R339, BOSE VOR ''BSE''.
+  2.2)ACFT SHALL FLY ALONG BAOLONG NDB ''WL'' , V41, RUNEG, W169,
+  NANNING VOR ''WUY'', R339, BOSE VOR''BSE''.
+  SECONDARY ROUTE USED BY ATC.
+  THE CURRENT RTE FOR SCHEDULED FLIGHTS FROM POINTS BEYOND LAIBIN
+  VOR ''LBN'' TO SANYA/PHOENIX AIRPORT (ZJSY) REMAIN UNCHANGE, AND
+  VICE VERSA.
+ZA1541/16                         VALID: 1606290457 - 1612311559 EST
+  NEW SCHEDULED FLIGHTS DIRECTION FROM SANYA/PHOENIX AIRPORT
+  (ZJSY) TO XIAMEN,FUZHOU,
+  WENZHOU,NINGBO,QINGDAO,DALIAN,HANGZHOU,
+  CHANGZHOU,NANCHANG,NANJING,HEFEI,
+  JINAN, YANGZHOU,SHANGHAI/HONGQIAO,PUSAN:
+  SANYA/PHOENIX AIRPORT (ZJSY),W170SAVNO,
+  W171LENKO,A1IKELA,P901IDOSI
+  DCT CH A461 BEKOL,A461 SHILONG VOR,G471
+  THEN JOIN THE EXISTING
+  SCHEDULED FLIGHTS ROUTE.
+  NEW SCHEDULED
+  FLIGHTS DIRECTION FROM SANYA/PHOENIX AIRPORT (ZJSY)
+  TO HONGKONG:
+  SANYA/PHOENIX AIRPORT (ZJSY),W170SAVNO,W171LENKO,A1IKELA TO
+  HONGKONG.
+  FLY BACK BY THE EXISTING SCHEDULED FLIGHT ROUTE.
+  THE EXISTING SCHEDULED FLIGHT ROUTE IS THE SECONDARY ROUTE,AND
+  USED BY ATC''S INSTRUCTIONS.
+  THE ACFT AND CREW FLYING ATS RTE A1 REQUIRED RNP-10.
+ZG2518/16                             VALID: 1611301200 - 1612312359
+  1200-2359 DLY
+  AD NOT AVBL FOR ALTN EXCEPT EMERGENCY FLIGHT DUE TO STAND
+  SHORTAGE.
+ZG2400/16                             VALID: 1611171601 - 1701311559
+  PARKING STANDS NR.10 AND NR.12 CLSD DUE TO WIP.
+ZG2303/16                         VALID: 1611021100 - 1612311559 EST
+  TEMPORARY OBST ERECTED WITH DETAILS AS FOLLOWS, ALL THE DATA BASED
+  ON RWY CENTER:
+   OBSTACLE TYPE   BRG(MAG)(DEG)   DIST(M)      ELEVATION(M)
+  CRANE            094.4           1077.7      43.9.
+ZG1209/16                         VALID: 1606210700 - 1612311559 EST
+  NEW TEMPORARY BUILDING ERECTED AT SOUTHWEST OF RWY08 THR WITH
+  OBST LGTS. PSN: 247DEG AND 3274.6M FROM RWY CENTER. ALT 89.77M.
+ZG1208/16                         VALID: 1606210700 - 1612311559 EST
+  TEMPORARY OBST ERECTED WITH DETAILS AS FOLLOWS, ALL THE DATA BASED
+  ON RWY CENTER:
+  NR.   OBSTACLE TYPE   BRG(MAG)(DEG)   DIST(M)      ELEVATION(M)
+  1.      CRANE            176           1048.14            79.52
+ZR112/16                              VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(TERMINAL) FOR ZJSY
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+ZR11/16                               VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(NPA) FOR ZJSY
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+
+===================
+DESTINATION AIRPORT
+===================
+
+ZHCC /CGO   ZHENGZHOU/XINZHENG - DETAILED INFO
+----------------------------------------------
+++++++++++++++++++++++++++++++ RUNWAY ++++++++++++++++++++++++++++++
+ZC703927/16
+地点:ZHCC
+VALID(北京时):1612130230  -- 1612280530
+0230-0530(EVERY TUE AND WED)
+RWY12L/30R 关闭, 因维护.
+
+ZG2548/16                             VALID: 1612121830 - 1612272130
+  1830-2130 EVERY MON AND TUE
+  RWY12L/30R CLSD DUE TO MAINT.
++++++++++++++++++++++++++++++ AIRPORT ++++++++++++++++++++++++++++++
+ZC703925/16
+地点:ZHCC
+VALID(北京时):1612130230  -- 1612280530
+0230-0530(EVERY TUE AND WED)
+因维护, 关闭下列滑行道.
+1.D ，E ，D1 ，D2 ，D3 ，D4 ，D5 ，D6 ，D7 
+，D8 ，D9 ，D11 ，D12 ，E1 ，E2 ，E3 ，E4 
+ ，R1 ，R2 滑.
+2.S1 滑与D 滑之间的S 滑行道.
+3.S1 滑与D 滑之间的U 滑行道.
+
+ZC703411/16
+地点:ZHCC
+VALID(北京时):1610261537  -- 1612312359
+201,202,203,204 号机位关闭, 因维护.
+
+ZC703410/16
+地点:ZHCC
+VALID(北京时):1610261535  -- 1612312359
+103 号停机位变更为103 滑行线, 
+仅供滑行使用, 并设置标志.
+
+ZC702300/16
+地点:ZHCC
+VALID(北京时):1607270001  -- 1612312359
+1,2,3,4,5,6,7,8,9,10,11,70 号停机位关闭, 因维护.
+
+ZG2546/16                             VALID: 1612121830 - 1612272130
+  1830-2130 EVERY MON AND TUE
+  FLW TWYS CLSD DUE TO MAINT:
+  1. TWY D, TWY E, TWY D1-D9, TWY D11, TWY D12, TWY E1-E4, TWY R1
+  AND TWY R2.
+  2. TWY S AND TWY U CLSD BTN TWY S1 AND TWY D.
+ZG2252/16                             VALID: 1610260737 - 1612311559
+  PARKING STANDS NR.201-204 CLSD DUE TO MAINT.
+ZG2251/16                             VALID: 1610260733 - 1612311559
+  PARKING STAND NR.103 CHANGED TO TWY 103, TWY 103 ONLY AVBL FOR
+  TAXIING AND MARKED WITH MARKINGS.
+ZG2062/16                         VALID: 1609290820 - 1612311559 EST
+  DME ''CGO'' CH92X LIMITED TO USE:
+  1.RADIALS 220-221DEG (CLOCKWISE) U/S.
+  2.RADIALS 226-228DEG (CLOCKWISE) U/S.
+  3.29-36NM AND 23-25NM ON RADIAL 222DEG U/S.
+ZG1576/16                             VALID: 1607261601 - 1612311559
+  PARKING STANDS NR.1,2,3,4,5,6,7,8,9,10,11 AND NR.70 CLSD DUE TO
+  MAINT.
+ZR44/16                               VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(NPA) FOR ZHCC
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+ZR9/16                                VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(TERMINAL) FOR ZHCC
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+
+========================
+DESTINATION ALTERNATE(S)
+========================
+
+ZBHH /HET   HUHEHAOTE/BAITA
+---------------------------
+++++++++++++++++++++++++++++++ RUNWAY ++++++++++++++++++++++++++++++
+ZE1071/16                             VALID: 1607051147 - 1701051030
+  ILS FOR RWY08 LIMITED TO USE:
+  1.ILS FOR RWY08 U/S BEYOND 14NM OF FRONT COURSE.
+  2.ILS FOR RWY08 U/S BEYOND 015DEG LEFTSIDE OF FRONT COURSE.
+++++++++++++++++++++++++ APPROACH PROCEDURE ++++++++++++++++++++++++
+ZC201612/16
+地点:ZBHH
+VALID(北京时):1607051947  -- 1701051830
+RWY08 ILS(IFX/108.9MHZ) 限制使用情况如下 ：
+1. 航向信标前航道14 海里以外不 可用.
+2. 航向信标前航道左侧（+ ）15  度以外不可用 .
+
+ZC201471/16
+地点:ZBHH
+VALID(北京时):1606270001  -- 1612272359
+陈家营NDB '' KJ'' /434KHZ  限用如下：
+1.NDB 41 度方位线，距台 9 海里外不可用.
+2.NDB 76 度方位线进近程序不可用.
+
+ZE977/16                              VALID: 1606261601 - 1612271559
+  CHENJIAYING NDB ''KJ'' 434KHZ LIMITED TO USE:
+  1.BEYOND 9NM ON BEARING 041DEG U/S.
+  2.FOR APPROACH PROCEDURE, ON BEARING 076DEG U/S.
++++++++++++++++++++++++++++++ AIRPORT ++++++++++++++++++++++++++++++
+ZC201474/16
+地点:ZBHH
+VALID(北京时):1606261103  -- 1612272359
+呼和浩特 VOR/DME ''HET'' 116.9MHZ/CH116X 限用如下: 
+77 度径向线, 距台 2 海里至3.5 海里之间不可用。
+
+ZC201473/16
+地点:ZBHH
+VALID(北京时):1606260935  -- 1612311200
+本场 NDB ''FX '' 372KHZ 不提供使用.
+
+ZE979/16                              VALID: 1606260303 - 1612271559
+  VOR/DME ''HET'' 116.9MHZ/CH116X LIMITED TO USE:
+  BTN 2NM TO 3.5NM ON RADIAL 077DEG U/S.
+ZE978/16                              VALID: 1606260137 - 1612310400
+  NDB ''FX'' 372KHZ U/S.
+
+ZBOW /BAV   BAOTOU
+------------------
++++++++++++++++++++++++++++++ AIRPORT ++++++++++++++++++++++++++++++
+ZR95/16                               VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(NPA) FOR ZBOW
+     STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+
+ZBYN /TYN   TAIYUAN/WUSU
+------------------------
+++++++++++++++++++++++++ APPROACH PROCEDURE ++++++++++++++++++++++++
+ZC202434/16
+地点:ZBYN
+VALID(北京时):1609221224  -- 1703211200
+RWY31 ILS 限制性使用：航向信标前航道22 海里以外不可用
+
+ZC200719/16
+地点:ZBYN
+VALID(北京时):1604121445  -- 1709152359
+参阅NAIP ZBYN AD2.19(EFF 2013-11-14), 将太原VOR/DME 备注项内容更改为：
+测距仪280 度径向线25 海里至30 海 里之间不可用
+
+ZE1705/16                             VALID: 1609220424 - 1703210400
+  LOC FOR RWY31 U/S BEYOND 22NM OF FRONT COURSE.
++++++++++++++++++++++++++++++ AIRPORT ++++++++++++++++++++++++++++++
+ZR110/16                              VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(TERMINAL) FOR ZBYN
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+ZR96/16                               VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(NPA) FOR ZBYN
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+
+==================
+ENROUTE AIRPORT(S)
+==================
+
+ZJHK /HAK   HAIKOU/MEILAN
+-------------------------
+++++++++++++++++++++++++++++++ RUNWAY ++++++++++++++++++++++++++++++
+ZC703897/16
+地点:ZJHK
+VALID(北京时):1612040230  -- 1701110530
+0230-0530 EVERY WED AND SUN
+RWY09/27 关闭, 因施工.
+
+ZG2530/16                             VALID: 1612031830 - 1701102130
+  1830-2130 EVERY TUE AND SAT
+  RWY09/27 CLSD DUE TO WIP.
+++++++++++++++++++++++++ APPROACH PROCEDURE ++++++++++++++++++++++++
+ZC703987/16
+地点:ZJHK
+VALID(北京时):1612091300  -- 1706091300
+RWY27 NDB 'P'402KHZ 限制性使用：300 度方
+位线顺时针至310 度方位线之间不可用.
+
+ZG2585/16                             VALID: 1612090500 - 1706090500
+  NDB ''P'' 402KHZ FOR RWY27 LIMITED TO USE:
+  BEARING 300DEG-310DEG CLOCKWISE U/S.
++++++++++++++++++++++++++++++ AIRPORT ++++++++++++++++++++++++++++++
+ZC703762/16
+地点:ZJHK
+VALID(北京时):1611280001  -- 1702170530
+本场不接收公务机和通用飞
+机过夜, 因停机位紧张.
+
+ZC702871/16
+地点:ZJHK
+VALID(北京时):1609111654  -- 1702152359
+东木栏头VOR 'MLT' 112.7MHZ 限制性使用改为: 进离场程序中222 度径向线距台55 海里至56 海里之间不可用.
+
+ZC101420/16
+地点:ZJHK
+VALID(北京时):1612091049  --   PERM
+参阅国内航空资料汇编航图手册 ZJHK-5B （2016-11-15 ）, 将ILS 信息标注
+框中航迹角由090 度改为091 度，其余不变.
+
+ZG2583/16                                   VALID: 1612090250 - PERM
+  REF AIP CHINA ZJHK-10A (2016-11-15), TRACK ANGLE OF ILS
+  INFORMATION FRAME CHANGED FROM 090 DEG TO 091 DEG, OTHER REMAINS.
+ZG1915/16                                   VALID: 1609141600 - PERM
+  REF AIP CHINA ZJHK AD2.24-10C(2016-8-15 EFF1609141600),NDB/DME
+  LANDING MINIMA:
+   A/B/C       D
+  MDA(H)135(113)    135(113)
+  VIS1300    1600
+  CHANGE TO:
+  A/B/C/D
+  MDA(H)165(142)
+  VIS1900
+  OTHERS REMAIN.
+ZG1914/16                             VALID: 1609110854 - 1702151559
+  DONGMULANTOU VOR ''MLT'' 112.7MHZ LIMITS CHANGED TO: BTN 55-56NM
+  ON RADIAL 222DEG FOR ARRIVAL/DEPARTURE PROCEDURE U/S.
+ZR74/16                               VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(NPA) FOR ZJHK
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+++++++++++++++++++++++++++ COMPANY NOTAM +++++++++++++++++++++++++++
+CO308/16                              VALID: 1612071601 - 1701041559
+  CO308/16 COMPANY NOTAM
+  IN CZ2 (A319-115 AND PART OF A330) & CZ8 (PART OF A320 SERIES AND
+  PART OF A330 AND A380)& CZ9(E190) & CSN2(B737 SERIES AND PART OF
+  A320 SERIES) ONBOARD NAVIGATION DATABASE:
+  1.THE FOLLOWING PBN PROCEDURES ARE NOT AVAILABLE: LH-91D, LH-92D,
+  LH-81D, LH-91A, LH-92A AND LH-81A;
+  2.RNAV(GNSS) RWY09 AND RNAV(GNSS) RWY27 ARE NOT AVAILABLE.
+
+ZGNN /NNG   NANNING/WUXU
+------------------------
+++++++++++++++++++++++++ APPROACH PROCEDURE ++++++++++++++++++++++++
+ZC704073/16
+地点:ZGNN
+VALID(北京时):1612200800  -- 1612230800
+RWY05 DME 'IXU' CH26X 不提供使用, 因校飞.
+
+ZC704072/16
+地点:ZGNN
+VALID(北京时):1612200800  -- 1612230800
+RWY05 ILS 不提供使用, 因校飞.
+
+ZG2634/16                             VALID: 1612200000 - 1612222359
+  DME ''IXU'' CH26X FOR RWY05 U/S DUE TO FLTCK.
+ZG2633/16                             VALID: 1612200000 - 1612222359
+  ILS FOR RWY05 U/S DUE TO FLTCK.
++++++++++++++++++++++++++++++ AIRPORT ++++++++++++++++++++++++++++++
+ZC703581/16
+地点:ZGNN
+VALID(北京时):1611090205  -- 1703080630
+0205-0630 DLY
+备降航班提前45 分钟联系, 因跑道、滑行道维护.
+
+ZG2342/16                             VALID: 1611081805 - 1703072230
+  1805-2230 DLY
+  45MIN PPR FOR ALTN DUE TO RWY AND TWY MAINT.
+ZR17/16                               VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(TERMINAL) FOR ZGNN
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+
+ZGSD /ZUH   ZHUHAI/JINWAN
+-------------------------
+++++++++++++++++++++++++++++++ RUNWAY ++++++++++++++++++++++++++++++
+ZC704044/16
+地点:ZGSD
+VALID(北京时):1612152058  -- 1612312359  EST
+RWY05 中指点标不提供使用, 因设备更新.
+
+++++++++++++++++++++++++ APPROACH PROCEDURE ++++++++++++++++++++++++
+ZC704045/16
+地点:ZGSD
+VALID(北京时):1612152058  -- 1612312359  EST
+NDB 'U' 272KHZ 不提供使用, 因设备更新改造.
+
+ZC703164/16
+地点:ZGSD
+VALID(北京时):1610130000  -- 1612232359
+RWY05 LOC 'IZH' 108.55MHZ 限制性使用：
+1. 前航道正负22 度以外不可用.
+2. 前航道17 海里以外正6 度以外不可用.
+
+ZC701987/16
+地点:ZGSD
+VALID(北京时):1607011055  -- 1612312359  EST
+NDB 'U' 272KHZ 限制性使用更改为:047 度方位线距台5.5 海里至7.5 海里之间不可用.
+
+ZC701910/16
+地点:ZGSD
+VALID(北京时):1606281707  -- 1612312359  EST
+参阅NAIP ZGSD AD2.19,高栏NDB 'UJ' 204KHZ备注(限制使用)内容变更为：
+(1) NDB 230度方位线顺时针方向至020 度方位线之间不可用(其中294度方位线上航路程序可用).
+(2) NDB 210度方位线距台8海里至10海里之间航路程序不可用.
+(3) NDB 210度方位线距台8海里至10海里之间初始进近程序不可用.
+(4) NDB 210度方位线距台18海里至20 海里之间进场程序不可用.
+(5) NDB 050度方位线距台2海里以内等待程序不可用.
+(6) NDB 077度方位线距台3海里以内航路程序不可用.
+(7) NDB 077度方位线距台3海里以 内,距台14海里至15海里之间进场程序不可用.
+(8) NDB 136度方位线距台23海里至27 海里之间航路程序不可用.
+(9) NDB 149度方位线距台14海里至16 海里之间,距台19海里至23海里之间进场程序不可用.
+
+ZG1300/16                         VALID: 1606280935 - 1612311559 EST
+  GAOLAN NDB ''UJ'' 204KHZ LIMITED TO USE:
+  1. ON BEARING 230DEG-020DEG(CLOCKWISE) U/S, EXCEPT BEARING 294DEG.
+  2. ON BEARING 210DEG BTN 8NM-10NM U/S.
+  3. ON BEARING 210DEG BTN 18NM-20NM U/S.
+  4. ON BEARING 077DEG WI 3NM AND BTN 14NM-15NM U/S.
+  5. ON BEARING 136DEG BTN 23NM-27NM U/S.
++++++++++++++++++++++++++++++ AIRPORT ++++++++++++++++++++++++++++++
+ZC703795/16
+地点:ZGSD
+VALID(北京时):1611290030  -- 1704010800
+0030-0800 DLY
+机场不接受备降, 因施工.
+
+ZC703787/16
+地点:ZGSD
+VALID(北京时):1611240936  -- 1706302359  EST
+高栏NDB 'UJ' 204KHZ 在程序管制条件下不得提供使用.
+
+ZC702671/16
+地点:ZGSD
+VALID(北京时):1608261000  --   PERM
+地面管制(GND) 工作频率更改为121.75MHZ.
+
+ZC701937/16
+地点:ZGSD
+VALID(北京时):1606291526  -- 1612312359  EST
+参阅NAIP ZGSD AD2.19 连胜围VOR/DME 'ZUH' 
+116.7MHZ/CH114X 备注更改为：
+(1)VOR/DME 130 度径向线顺时针方向至160 度( 除147 度) 径向线之间不可用.
+(2)VOR     330 度径向线顺时针方向至360 度( 除345,347 度) 径向线之间不可用.
+(3)VOR/DME 210 度径向线距台12 海里以外不可用.
+(4)VOR     147 度径向线距台12 海里以外不可用.
+(5)VOR/DME 315 度径向线距台35 海里以外不可用.
+(6)VOR/DME 345 度径向线距台11 海里以外不可用.
+(7)VOR/DME 004 度径向线距台19 海里以外不可用.
+
+ZC700351/16
+地点:ZGSD
+VALID(北京时):1602031235  -- 1612312359  EST
+连胜围NDB 'MA' 322KHZ 不提供使用, 因校飞不合格.
+
+ZR50/16                               VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(NPA) FOR ZGSD
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+ZR21/16                               VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(TERMINAL) FOR ZGSD
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+++++++++++++++++++++++++++ COMPANY NOTAM +++++++++++++++++++++++++++
+CO315/16                              VALID: 1612071600 - 1701041559
+  CO315/16 COMPANY NOTAM
+  IN CSN2(B737 SERIES AND PART OF A320 SERIES) ONBOARD NAVIGATION
+  DATABASE, THE SPEEDLIMIT ON IF-ZUH OF APPTRN FOR ZGSD IS 190KT,
+  PAY ATTENTION PLEASE.
+
+ZGZJ /ZHA   ZHANJIANG
+---------------------
+++++++++++++++++++++++++ APPROACH PROCEDURE ++++++++++++++++++++++++
+ZC703045/16
+地点:ZGZJ
+VALID(北京时):1609280925  -- 1612312359
+北远台NDB 'NW' 438KHZ 不提供使用.
+
+ZC702303/16
+地点:ZGZJ
+VALID(北京时):1607252018  -- 1702282359
+湖光 NDB 'LH' 356KHZ 限用如下:
+1.228 度方位线，距台9 至11 海里之间不可用.
+2.163 度方位线，距台9 至12 海里之间不可用.
+
+ZA1858/16                             VALID: 1607251217 - 1702281559
+  HUGAUNG NDB ''LH'' 356KHZ LIMITED TO USE:
+  1. BTN 9NM AND 11NM ON BEARING 228DEG U/S.
+  2. BTN 9NM AND 12NM ON BEARING 163DEG U/S.
++++++++++++++++++++++++++++++ AIRPORT ++++++++++++++++++++++++++++++
+ZC704076/16
+地点:ZGZJ
+VALID(北京时):1612200930  -- 1612202359
+机场不接收非紧急情况的航班备降, 因停机位紧张.
+
+ZC703867/16
+地点:ZGZJ
+VALID(北京时):1611291617  -- 1701302300
+本场气源车不提供使用, 因故障.
+
+ZR99/16                               VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(NPA) FOR ZGZJ
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+
+ZGBH /BHY   BEIHAI/FUCHENG
+--------------------------
+++++++++++++++++++++++++++++++ RUNWAY ++++++++++++++++++++++++++++++
+ZC703846/16
+地点:ZGBH
+VALID(北京时):1611281503  -- 1703282359
+RWY19 RVR 设备B 不提供使用, 因故障.
+
+++++++++++++++++++++++++ APPROACH PROCEDURE ++++++++++++++++++++++++
+ZC703854/16
+地点:ZGBH
+VALID(北京时):1611291123  -- 1706302359
+RWY19 NDB 'O' 208KHZ 试运行, 不对外提供用。
+
+ZC703853/16
+地点:ZGBH
+VALID(北京时):1611291122  -- 1706302359
+RWY01 NDB 'V' 265KHZ 试运行, 不对外提供用。
+
+ZC700289/16
+地点:ZGBH
+VALID(北京时):1601261647  --   PERM
+LOC01 'IVV' 110.7MHZ 新增限制条件：前航向道右侧27 度以外不可用.
+
++++++++++++++++++++++++++++++ AIRPORT ++++++++++++++++++++++++++++++
+ZC703439/16
+地点:ZGBH
+VALID(北京时):1610282200  -- 1703251000
+DLY 22:00-10:00(NEXT DAY)
+机场不接收非紧急情况下的备降航班, 因停机位紧张.
+
+ZR97/16                               VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(NPA) FOR ZGBH
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+
+ZGKL /KWL   GUILIN/LIANGJIANG
+-----------------------------
+++++++++++++++++++++++++ APPROACH PROCEDURE ++++++++++++++++++++++++
+ZC702320/16
+地点:ZGKL
+VALID(北京时):1607271421  -- 1710311900  EST
+永福NDB 'JW' 281KHZ 限制性使用：
+1.311 度方位线不可用.
+2.034 度方位线不可用.
+3.007 度方位线距台3 海里以外不可用.
+4.037 度方位线距台4 海里至11 海里之间不可用.
+5.151 度方位线距台4 海里至18 海里之间不可用.
+
+ZG1592/16                         VALID: 1607270621 - 1710311100 EST
+  YONGFU NDB ''JW'' 281KHZ LIMITED TO USE:
+  1.ON BEARING 311DEG U/S.
+  2.ON BEARING 034DEG U/S.
+  3.BEYOND 3NM ON BEARING 007DEG U/S.
+  4.BTN 4NM AND 11NM ON BEARING 037DEG U/S.
+  5.BTN 4NM AND 18NM ON BEARING 151DEG U/S.
++++++++++++++++++++++++++++++ AIRPORT ++++++++++++++++++++++++++++++
+ZR111/16                              VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(TERMINAL) FOR ZGKL
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+ZR98/16                               VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(NPA) FOR ZGKL
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+
+ZGZH /LZH   LIUZHOU/BAILIAN
+---------------------------
+++++++++++++++++++++++++ APPROACH PROCEDURE ++++++++++++++++++++++++
+ZC703932/16
+地点:ZGZH
+VALID(北京时):1612052000  -- 1706012359  EST
+柳州 DME 'LIU' CH120X 限制使用：209 度径向线距台 17 海里以外不可用.
+
+++++++++++++++++++++++++++ COMPANY NOTAM +++++++++++++++++++++++++++
+CO280/16                              VALID: 1610121600 - 1701041559
+  CO280/16 COMPANY NOTAM
+  DUE TO USING QFE, IN ALL ONBOARD NAVIGATION DATABASE, PBN
+  PROCEDURES ARE NOT AVAILABLE.
+
+ZUGY /KWE   GUIYANG/LONGDONGBAO
+-------------------------------
++++++++++++++++++++++++++++++ AIRPORT ++++++++++++++++++++++++++++++
+ZC602654/15
+地点:ZUGY
+VALID(北京时):1507240001  --   PERM
+贵阳龙洞堡机场PBN 飞行程序正式运行, 运行要求:
+1. 不能执行PBN 程序的航空器, 首次联系时向管制员通报.
+2. 航空器执行PBN 进离港飞行程序 时, 飞行高度听从管制员指挥.
+
+ZR91/16                               VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(NPA) FOR ZUGY
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+ZU13/15                                     VALID: 1502041600 - PERM
+  GUIYANG APP ADJUSTED AND DIVIDED TO 2 SECTORS, DETAILS AS
+  FOLLOWS:LATERAL LIMITS:
+  ZUGY AP01:
+  ELKAL-N251018E1064306-N260920E1053405-N265530E1054350-N264020E1070
+  5
+  00-N265350E1082020-ELKAL
+  ZUGY AP02:
+  N265350E1082020-N265852E1081953-OTLEK-N274452E1055442-N265530E1054
+  3
+  50-N264020E1070500-N265350E1082020
+  VERTICAL LIMITS:
+  ZUGY AP01/02: 6000M AND BELOW
+  CALLSIGN: GUIYANG APPROACH
+  OPERATIONAL FREQ/HOURS OF SERVICE:
+  ZUGY AP01: 126.050 (119.450)MHZ/H24,
+  ZUGY AP02: 119.025 (119.450)MHZ/BY ATC, CONTACT ZUGY
+  AP01 WHEN NOT AVAILABLE.
+++++++++++++++++++++++++++ COMPANY NOTAM +++++++++++++++++++++++++++
+CO149/15                                     VALID: 1507240208 - UFN
+  CO149/15 COMPANY NOTAM
+  IN CZ9 ONBOARD NAVDATA, RWY19 VOR/DME APPROACH PROCEDURE FOR ZUGY
+  IS NOT AVAILABLE.
+  PAY ATTENTION PLEASE.
+
+ZGHA /HHA   CHANGSHA/HUANGHUA
+-----------------------------
+++++++++++++++++++++++++ APPROACH PROCEDURE ++++++++++++++++++++++++
+ZC702640/16
+地点:ZGHA
+VALID(北京时):1608211427  -- 1703302359  EST
+RWY18 LLZ 'IWW' 110.3MHZ 前航向道-10 度以外不可用.
+
+ZG1797/16                         VALID: 1608210625 - 1703301559 EST
+  LLZ FOR RWY18 U/S: BEYOND 10DEG RIGHTSIDE OF FRONT COURSE.
++++++++++++++++++++++++++++++ AIRPORT ++++++++++++++++++++++++++++++
+ZC704035/16
+地点:ZGHA
+VALID(北京时):1612141054  -- 1703292359  EST
+新建第二跑道, 位于RWY18/36 东侧380 米, 与现用跑道平行, 该跑道
+正在施工, 严禁使用, 机组注意观察, 以免落错跑道.
+
+ZC703801/16
+地点:ZGHA
+VALID(北京时):1611251505  -- 1612232359
+芦冲 NDB 'SV' 345KHZ 限制性使用变更为:
+1. 272 度方位线距台11-13 海里和20-22 海里不可用.
+2. 67 度方位线距台14 海里以外不可用.
+
+ZC101340/16
+地点:ZGHA
+VALID(北京时):1611251055  --   PERM
+参考NAIP ZGHA-3B （2016-2-15 ）, ATIS 频率由128.8 更改为127.6 ，其余不变。
+
+ZG2610/16                         VALID: 1612140254 - 1703291559 EST
+  A NEW PARALLEL RWY WIP AND NOT PUT INTO USE. LOCATION: 380M
+  EAST OF RWY18/36. EXCERCISE CAUTION WHILE LANDING.
+ZG2474/16                             VALID: 1611250705 - 1612231559
+  THE LIMITATION OF LUCHONG NDB ''SV'' 345KHZ CHANGED AS FOLLOW:
+  1.BTN 11NM AND 13NM,BTN 20NM AND 22NM ON BEARING 272DEG U/S.
+  2.BEYOND 14NM ON BEARING 67DEG U/S.
+ZR3/16                                VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(TERMINAL) FOR ZGHA
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+
+ZHHH /WUH   WUHAN/TIANHE
+------------------------
+++++++++++++++++++++++++ APPROACH PROCEDURE ++++++++++++++++++++++++
+ZC703990/16
+地点:ZHHH
+VALID(北京时):1612091436  -- 1703172359
+RWY04L ILS 不提供使用, 因设备更新.
+
+ZG2586/16                             VALID: 1612090635 - 1703171559
+  ILS FOR RWY04L U/S DUE TO MAINT.
++++++++++++++++++++++++++++++ AIRPORT ++++++++++++++++++++++++++++++
+ZC704077/16
+地点:ZGZJ
+VALID(北京时):1612200930  -- 1612202359
+机场不接收非紧急情况的航班备降, 因停机位紧张.
+
+ZC703991/16
+地点:ZHHH
+VALID(北京时):1612091437  -- 1701091700
+天河NDB 'HG' 254KHZ 不提供使用, 因故障.
+
+ZG2636/16                             VALID: 1612200130 - 1612210130
+  AD NOT AVBL FOR NON-EMERGENCY ALTN FLIGHT DUE TO STAND SHORTAGE.
+ZG2587/16                             VALID: 1612090636 - 1701090900
+  NDB ''HG'' 254KHZ U/S DUE TO TROUBLE.
+ZG1766/16                             VALID: 1608181040 - 1612311559
+  AD NOT AVBL FOR TYPE F ACFT TO ALTN.
+ZR40/16                               VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(NPA) FOR ZHHH
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+ZR2/16                                VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(TERMINAL) FOR ZHHH
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+++++++++++++++++++++++++++ COMPANY NOTAM +++++++++++++++++++++++++++
+CO205/16                              VALID: 1607201600 - 1701041559
+  CO205/16 COMPANY NOTAM
+  IN ALL ONBOARD NAVIGATION DATABASE, THE COORDINATE OF NDB HG IS
+  DIFFERENT FROM THAT IN CHART.
+
+ZHNY /NNY   NANYANG/JIANYING
+----------------------------
+++++++++++++++++++++++++ APPROACH PROCEDURE ++++++++++++++++++++++++
+ZC702338/16
+地点:ZHNY
+VALID(北京时):1607282050  -- 1701282040
+NDB 'ML' 446KHZ 限制性使用:
+1. 117 度方位线, 距台 5 海里 至 9 海里之间不可用.
+2. 216 度方位线, 距台 4 海里 至 9 海里之间不可用.
+3. 180 度方位线, 距台 4 海里 至 14 海里之间不可用.
+
++++++++++++++++++++++++++++++ AIRPORT ++++++++++++++++++++++++++++++
+ZR19/16                               VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(NPA) FOR ZHNY
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+
+ZHLY /LYA   LUOYANG
+-------------------
+++++++++++++++++++++++++ APPROACH PROCEDURE ++++++++++++++++++++++++
+ZC704082/16
+地点:ZHLY
+VALID(北京时):1612201411  -- 1706302359  EST
+RWY26 LOC 'IDD' 109.5MHZ 限制性使用改为: 
+前航向道+/-19 度以外不可用.
+
+ZC703342/16
+地点:ZHLY
+VALID(北京时):1610220928  -- 1701231000  EST
+RWY26 NDB 'D' 471KHZ 不提供使用.
+
++++++++++++++++++++++++++++++ AIRPORT ++++++++++++++++++++++++++++++
+ZC703874/16
+地点:ZHLY
+VALID(北京时):1611300828  -- 1612301200  EST
+本场ATIS 127.4MHZ 不提供使用, 因故障.
+
+ZC703813/16
+地点:ZHLY
+VALID(北京时):1611261034  -- 1705261400  EST
+NDB 'WL' 245KHZ 不提供使用.
+
+ZC701948/16
+地点:ZHLY
+VALID(北京时):1606301000  -- 1612301000  EST
+NDB 'WL' 245KHZ 限制使用内容变更如下:
+(1) 051 度方位线不可用. 
+(2) 052 度方位线不可用. 
+(3) 054 度方位线不可用.
+(4) 287 度方位线距台6 海里以外不可用.
+(5) 291 度方位线距台4 海里以外不可用.
+(6) 179 度方位线距台11 海里至13 海里之间不可用.
+(7) 351 度方位线距台3 海里至4 海里之间不可用.
+(8) 008 度方位线距台2.5 海里至5 海里之间不可用.
+
+ZR10/16                               VALID: 1601010800 - 1612311559
+  (THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+  GPS RAIM PREDICTION INFORMATION(NPA) FOR ZHLY
+  STATUS          DURATION
+  AVAILABLE     WITHIN THREE DAYS
+
+==============================
+EXTENDED AREA AROUND DEPARTURE
+==============================
+
+ZJSA        SANYA FIR
+---------------------
+NIL
+
+ZJSA        SANYA FIR DOMESTIC
+------------------------------
+NIL
+
+====================================
+AREA ENROUTE DEPARTURE - DESTINATION
+====================================
+
+ZGZU        GUANGZHOU FIR
+-------------------------
+NIL
+
+LBN  /ENKUSR343
+---------------
+ZC700828/14
+地点:ZGZU
+VALID(北京时):1403271539  --   PERM
+下列航段范围内的航空器由桂林区域管制室实施管制指挥： 
+1.R343航路从ONEMI至P246(切零陵)航段, 高度7800M(含)至3900M(不含)范围内飞行的航空器.
+2.切柳州以北,H83航路至P158,W2航路至MOTOM,R343航路和X98临时航线至ENKUS, 
+高度3900M(含) 至5700M(含)范围内飞行的航空器.
+
+
+================================
+EXTENDED AREA AROUND DESTINATION
+================================
+
+ZHWH        WUHAN FIR
+---------------------
+ZC202945/16
+地点:ZBPE ZHWH
+VALID(北京时):1611072030  -- 1705072359  EST
+LARAD:由于北京区域航路点LARAD附近限制区较为复杂,且各种飞行活动频繁,提醒各航空器(尤其
+是空客系列航空器),由G212经LARAD加入 B458转弯时,航空器飞行航迹应与航图中标识的航线完全一致.
+BEGRI: 由于北京区域航路点BEGRI附近限制区较为复杂,且各种飞行活动频繁,提醒各
+航空器(尤其是空客系列航空器),由W75经BEGRI加入W76 转弯时,航空器飞行航迹应与
+航图中标识的航线完全一致.
+LADIX:由于北京区域航路点LADIX附近限制区较为复杂,且各种飞行活动频繁,
+提醒各航空器(尤其是空客系列航空器),由B339及首都机场离场航线
+经LADIX加入A326转弯时,航空器飞行航迹应与航图中标识的航线完全一致.
+WXI:由于北京区域航路点魏县VOR导航台附近限制区较 为复杂,且各种飞行活动频繁,
+ 提醒各航空器(尤其是空客系列航空器),由A461经WXI加入W4/H20往返GULEK 方向转弯时,
+航空器飞行航迹应与航图中标识的航线完全一致.
+TAMIX:由于北京区域航路点TAMIX附近限制区较为复杂,且各种飞行活动频繁,提醒各
+航空器( 尤其是空客系列航空器),由W4/H20经TAMIX加入B208往返长治NDB方向转弯时,
+航空器飞行航迹应与航图中标识的航线完全一致.
+P148:由于北京区域P148 附近限制区较为复杂,且各种飞行活动频繁,提醒各航空器
+(尤其是空客系列航空器),由W157经P148 加入H8转弯时,航空器飞行航迹应与航图中标识的航线完全一致.
+P149:由于北京区域P149附近限制区较为复杂,且各种飞行活动频繁,
+ 提醒各航空器(尤其是空客系列航空器),由H8经P149加入W40转弯时,
+ 航空器飞行航迹应与航图中标识的航线完全一致.
+上述导航台或航路点应避免出现切台或是过台转弯的现象发生,进而避免飞行冲突。
+特此提醒各航空公司注意。
+
+ZA2920/16                         VALID: 1611071239 - 1705071559 EST
+  DUE TO BUSY FLIGHT ACTIVITY AND COMPLEX RESTRICTED AIRSPACE IN
+  THE FOLLOWING AREA, AIRCRAFT SHALL STRICTLY FOLLOW THE FLYING
+  TRACK
+  AS THE EN-ROUTE CHART PUBLISHED, ESPECIALLY FOR AIRBUS
+  AIRCRAFT:
+  1. THE TURN AT LARAD FROM G212 TO JOIN B458;
+  2. THE TURN AT BEGRI FROM W75 TO JOIN W76;
+  3. THE TURN AT LADIX FROM B339 OR SIDS OF
+  BEIJING/CAPTIAL AIRPORT TO JOIN A326;
+  4. THE TURN AT WEIXIAN VOR''WXI'' FROM A461 TO GULEK(W4) OR FROM
+  GULEK(W4) TO JOIN A461;
+  5. THE TURN AT TAMIX FROM W4 TO CHANGZHI NDB''SQ''(B208) OR FROM
+  CHANGZHI NDB''SQ''(B208) TO JOIN W4.
+
+CGO         XINZHENG VOR/DME
+----------------------------
+ZC703081/16
+地点:ZHCC
+VALID(北京时):1609291620  -- 1612312359  EST
+新郑DME 'CGO' CH92X 限用如下：
+1.220 度径向线顺时针至221 度径向线不可用.
+2.226 度径向线顺时针至228 度径向线不可用.
+3.222 度径向线距台23 海里至25 海里之间不可用,29 海里至36 海里之间
+不可用.
+
+
+LRU         LINRU VOR/DME
+-------------------------
+ZC703082/16
+地点:ZHWH
+VALID(北京时):1609291630  -- 1612312359  EST
+临汝DME 'LRU' CH111X 070 度径向线距台22 海里至24 海里,27 海里至28 海里之
+间不可用.
+
+
+===================================================
+AREA ENROUTE DESTINATION - DESTINATION ALTERNATE(S)
+===================================================
+
+ZBPE        BEIJING FIR
+-----------------------
+ZC100407/14
+地点:ZBPE
+VALID(北京时):1409180000  --   PERM
+新辟华北地区等待航线,内容 如下:
+1.临汾等待:位于N354959E1112803,右等待航线,出入磁航迹210度/030度,
+出航时间1.5分钟,最大转弯半径13 千米,飞行高度 8100米(含)以上, 使用此等待航线须经ATC许可,
+2. 邢台等待:位于N365502E1145134,右等待 航线,出入磁航迹360度/180度,出 航时间1.5分钟,最大转弯半径13  千米,飞行高度 8400米(含)以上,  使用此等待航线须经ATC许可,
+3.土木尔台等待:位于N414019E1131543,左等待航线,出入磁航迹340度/160度,出航时间1.5分钟,最大转弯半径13 千米,飞行高度 8100米(含)以上,使用此等待 航线须经ATC许可,
+4.包头等待:位于包头VOR,右等待航线,出入磁航迹267度/087度,出航时间1.5分钟,最大转弯半径13 千米,飞行高度 8100米( 含)以上, 使用此等待航线须经ATC许可,
+5. PAMDA等待:位于PAMDA,左等待航线, 出入磁航迹288度/108度,出航时间1.5分钟,最大转弯半径13 千米,飞行高度骢米(含)以上, 使用此等待航线须经ATC许可,
+6. NOKAK等待:位于NOKAK,左等待航线, 出入磁航迹126度/306度,出航时间1.5 分钟,最大转弯半径13千米,飞行高度 6600 米(含)至 8400 米(含),使用此等待航线须经ATC许可,
+7. SABEM等待:位 于SABEM, 左等待航线,出入磁航迹075度/255 度,出航时间1.5分钟,最大转弯半径13千米,飞行高度  3600 米(含) 至 6000 米(含),使用此等待航线须经ATC许可,
+8.八达岭等待:位于N402157E1160000,右等待航线,出入磁航迹277度/097度, 
+出航时间1分钟(10千米),最大转弯半径5千米,飞行高度2700米(含)至3600米(含),使用此等待航线须经ATC许可.
+
+ZC200131/12
+地点:ZBPE
+VALID(北京时):1201311409  --   PERM
+济南至北京航线上升 下降规定.
+1.上升 下降地段为济南遥墙机场至泊头导航台.
+2.上升 下降规定(C类飞机):
+上升阶段:济南遥墙机场起飞上升切临邑(N3718.3E11702.2)高度3000 米,宁津(N3739.0E11647.0)高度4800米,然后继续上升至航线高度;
+下降阶段:过泊头导航台开始下降,宁津(N3739.0E11647.0)高度4500 米,切临邑(N3718.3E11702.2)高度3122 米,然后继续下降至济南遥墙机场.
+
+
+SZ          LIANGCHENG NDB
+--------------------------
+ZC201670/16
+地点:ZBPE
+VALID(北京时):1607101714  -- 1701101800
+凉城NDB ''SZ'' 282KHZ 限制使用, 限用如 下:
+1.NDB 312 方位线距台4 海里至6 海里 之间不可用.
+2.NDB 343 方位线距台17 海里之外不 可用.
+3.NDB 315 方位线距台4 至6 海里，以 及14 海里至16 海里之间不可用.
+
+ZA1707/16                             VALID: 1607100914 - 1701101000
+  LIANGCHENG NDB ''SZ'' 282KHZ LIMITED TO USE:
+  1.BTN 4-6NM ON BEARING 312DEG U/S.
+  2.BEYOND 17NM ON BEARING 343DEG U/S.
+  3.BTN 4-6NM, BTN 14-16NM ON BEARING 315DEG U/S.
+
+            ZC203380/16
+-----------------------
+ZC203380/16
+地点:ZBPE
+VALID(北京时):1612200900  -- 1612201700
+黄寨靶场有炮射活动: 以N380552 E1124400 为中心, 半径3 千米, 
+ 射高12,000 米( 标准海平面气压),  射向: 正北70 度.
+FL000--FL394
+
+=====================================================
+EXTENDED AREA AROUND DESTINATION ALTERNATE AIRPORT(S)
+=====================================================
+
+
+==========
+CREW ALERT
+==========
+(THIS NOTAM IS ONLY FOR CHINA SOUTHERN AIRLINES)
+DUE TO THE CHANGE OF AERONAUTICAL INFORMATION DATA, IN CB7(B787)
+ONBOARD NAVIGATION DATABASE, THE FOLLOWING COMPANY ROUTES ARE NOT
+UPDATED :WUHFCO01ND  WUHFCO01S .
+
+CO331/16 COMPANY NOTAM
+DUE TO THE CHANGE OF AERONAUTICAL INFORMATION DATA, IN CZ6(B757 AND
+B777 SIERIES) ONBOARD NAVIGATION DATABASE, THE FOLLOWING COMPANY
+ROUTES ARE NOT UPDATED :
+CANJFK01    HAKZGC01    PVGFRA01    URCIST01    CANYYZ02    HAKKWL01
+HAKCGO01    HAKURC01N    HAKURC01S.
+
+CO330/16 COMPANY NOTAM
+(THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+DUE TO THE CHANGE OF AERONAUTICAL INFORMATION DATA, IN CZ8(PART OF
+A320 SIERIES AND PART OF A330 AND A380) ONBOARD NAVIGATION DATABASE,
+THE FOLLOWING COMPANY ROUTES ARE NOT UPDATED :
+NBOCAN01  RUHPEK01  MLECAN01  BKKCAN01  BKKSZX01  HKTCAN01  HKTSZX01
+SGNCAN01  SGNSZX01  PEKHGH01  HLDDQA01  CANNBO01  CANNBO01D
+CANCDG01ND  CANCDG01S  CANDXB01  CANPNH01  CANREP01  CANDEL01
+CANKTM01  CANMLE01  CANBKK01  CANHKT01  CANHAN01  CANRGN01  CANBHY01
+CANHAK01  CANSYX01  CANKMG01  CANACX01  SZXCJU01  SZXBKK01  SZXHKT01
+SZXHAK01  SZXSYX01  SZXLJG01  SZXKMG01  HAKPEK01  HAKCAN01  HAKHHA01
+HAKSZX01  HAKCGO01  HAKWUH01  HAKKMG01  HAKXMN01  HAKHGH01  HAKNKG01
+HAKPVG01  HAKCKG01  HAKDLC01  XMNHAK01  CZXSYX01  HGHHAK01  HGHSYX01
+LYGHSN01  NKGHAK01  NKGSYX01  PVGHAK01  PVGSYX01  SHAPEK01  HSNLYG01
+DQAHLD01  DLCHAK01  SHECZX01  HAKZGC01  HGHPEK01  SGNPVG01  CANZHA01
+CKGHUZ01  HUZCKG01.
+
+CO329/16 COMPANY NOTAM
+(THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+DUE TO THE CHANGE OF AERONAUTICAL INFORMATION DATA, IN CZ7(B747)
+ONBOARD NAVIGATION DATABASE, THE FOLLOWING COMPANY ROUTE IS NOT
+INCLUDED IN THE DATABASE :
+SGNCAN02.
+
+CO328/16 COMPANY NOTAM
+(THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+DUE TO THE CHANGE OF AERONAUTICAL INFORMATION DATA, IN CZ2(A319-115
+AND PART OF A330) ONBOARD NAVIGATION DATABASE, THE FOLLOWING COMPANY
+ROUTES ARE NOT UPDATED :
+NBOCAN01   MLECAN01   BKKCAN01   HKTCAN01   SGNCAN01   CANNBO01
+CANNBO01D   CANCDG01S   CANDXB01   CANREP01   CANKTM01   CANMLE01
+CANBKK01   CANHKT01   CANRGN01   CANZHA01   CANKMG01   CANACX01
+HAKPEK01   SHAPEK01   CANDEL01    CANHAN01.
+
+CO327/16 COMPANY NOTAM
+(THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+IN CSN2(B737 SERIES AND PART OF A320 SERIES) ONBOARD NAVIGATION
+DATABASE, THE FOLLOWING COMPANY ROUTES ARE NOT UPDATA,PAY ATTENTION
+PLEASE:
+TPENNG01 CANDEL01 SWABKK01 HAKPEK01 HAKNKG01 NKGHAK01
+PNHHND01 CANKTM01 SWANNG01 HAKDYG01 HAKPVG01    NKGSYX01
+BKKCAN01 CANBKK01 SWAHAK01      HAKCAN01 HAKCKG01 VGHAK01
+BKKSWA01 CANCNX01 ZUHHAK01      HAKHHA01 HAKKWE01 PVGSYX01
+BKKSZX01 CANHKT01 ZUHKMG01      HAKKWL01 HAKURC01N SHAPEK01
+HKTCAN01 CANHAN01 SZXCJU01      HAKNNG01 HAKURC01S      YIWTSN01
+HKTSZX01 CANPQC01 SZXBKK01      HAKSWA01 HAKDLC01 YIWSYX01
+SGNCAN01 CANRGN01 SZXHKT01      HAKZUH01 SYXZUH01 HSNLYG01
+SGNSZX01 CANBHY01 SZXNNG01      HAKSZX01 XMNNNG01 DQAHLD01
+SGNPVG01 CANNNG01 SZXHAK01 HAKCGO01 XMNHAK01 DLCHAK01
+HLDDQA01 CANZHA01 SZXSYX01 HAKWUH01 CZXSYX01 SHECZX01
+TSNYIW01 CANHAK01 SZXLJG01 HAKZGC01 CZXSHE01    WUHCJU01
+CANPNH01 CANSYX01 SZXKMG01      HAKKMG01 HGHHAK01 HAKHGH01
+CANREP01 CANKMG01 CGOCJU01      HAKXMN01 HGHSYX01 LYGHSN01
+CANDAC01 CANACX01
+
+CO326/16 COMPANY NOTAM
+(THIS NOTAM IS SPECIAL FOR CHINA SOUTHERN AIRLINES)
+IN CZ9 (E190 SERIES) ONBOARD NAVIGATION DATABASE, THE FOLLOWING
+COMPANY ROUTES ARE NOT UPDATA,PAY ATTENTION PLEASE:
+KBVCAN01 CANKBV01 CANHAN01 CANZHA01 HAKCGO01 HAKZGC01
+USMCAN01 CANUSM01 CANBHY01 HAKKWL01
+
+CO313/16 COMPANY NOTAM
+DUE TO THE LIMITED CAPACITY OF DATABASE, IN CZ2(A319-115 AND PART OF
+A330) ONBOARD NAVIGATION DATABASE, PBN PROCEDURES ARE NOT CODED FOR
+THE FOLLOWING AIRPORTS:
+ZBDS, ZBLF, ZBMZ, ZBXH,ZBXZ, ZBYC, ZGCD, ZGMX, ZLDH, ZSCG, ZSGS,
+ZSGZ, ZSJG, ZSJH, ZSNT, ZSRZ, ZSWH, ZSWY, ZSYN, ZSYW, ZUAS, ZUGU,
+ZULZ, ZUQJ, ZUYI, ZWTN, ZWYN, ZYDD, ZYFY, ZYJM, ZYYJ.
+
+CO176/15 COMPANY NOTAM
+PLS REFER TO THE AIRPORT METAR/TAF MESSAGES, SIGNIFICANT WEATHER
+CHARTS AND FLIGHT PLAN INFORMATION AND PAY MORE ATTENTION TO THE
+TURBULENCE, ICING, THUNDERSTORMS, FOG AND OTHER WEATHER CONDITIONS
+OF THE ROUTE AND AIRPORT.
+
+CO165/15 COMPANY NOTAM
+DUE TO CYCLE LIMITATION OF THE ONBOARD NAVIGATION DATABASE, PART OF
+THE NAVDATA WILL LAG BEHIND THE FLIGHT PLAN. PLEASE ACCORDING TO THE
+VALID FLIGHT PLAN, CHART AND NOTAM TO CALIBRATE THE NAVDATA.
+
+CO163/15 COMPANY NOTAM
+PILOTS CAN APPLY FOR TEMPORARY AIRWAYS TO THE ATC BEFORE OR IN THE
+FLIGHT DURING THE OPENING TIME,
+ACCORDING TO THE REGULATIONS OF USING TEMPORARY AIRWAYS OF CAAC.
+NOTES: TEMPORARY AIRWAYS STAND FOR V OR X AIRWAYS.
+
+CO162/15 COMPANY NOTAM
+THE CREW SHOULD CONFIRM ALTERANTE ROUTE AND FLIGHT LEVEL WITH ATC
+BEFORE ALTERNATE.
+
+CO148/15 COMPANY NOTAM
+THE TIME OF NOTAM SENT BY ACARS IS STATED AS FOLLOWING
+SERIES C (DOMESTIC NOTAM)              PEK(UTC+8)
+OTHER SERIES(INTERNATIONAL NOTAM)      UTC
+
+CO99/15 COMPANY NOTAM
+UNLESS OTHERWISE STATED,ALL THE NOTAMS IN THE BRIEFING IS OF UTC
+TIME.
+
+
+
+=============
+CREW BULLETIN
+=============
+
+NIL
+
+
+==================== END OF LIDO-NOTAM-BULLETIN ====================
+
+D I S P A T C H  B R I E F I N G  I N F O    CZ3982    ZJSY/ZHCC    
+                                                                    
