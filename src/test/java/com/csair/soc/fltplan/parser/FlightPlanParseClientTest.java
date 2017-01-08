@@ -40,4 +40,18 @@ public class FlightPlanParseClientTest {
         }
 
     }
+
+    public static String readTestFile(){
+        List<File> fileLists = FileUtil.getFileList(FLT_PLAN_PATH,FLT_PLAN_TYPE);
+        for (File file : fileLists) {
+            try {
+                String encode = EncodingDetect.getJavaEncode(file.getPath());
+                String msgContent = FileUtils.readFileToString(file, encode);
+                return msgContent;
+            } catch (IOException e) {
+                logger.error(e);
+            }
+        }
+        return "";
+    }
 }

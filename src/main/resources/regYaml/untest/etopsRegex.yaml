@@ -1,0 +1,39 @@
+field: etops
+regex: "[\n|\\f]+(.*ETOPS SUMMARY[\\w\\W]*?DEP ATIS:).*[\n|\\f]+.*"
+tableBeans:
+  - field: ofpEtops
+    regex: "DIST    TIME  W/C        ICE   CFR    FOB    COND.*[\\f|\n]+([\\w\\W]*?)[\n|\\f]+.*ADDITIONAL ETOPS FUEL WITH ICING COND:"
+    splitReg: "\\r\\n\\r\\n"
+    rows:
+      - field: etopsNr
+        startPos: 1
+      - field: etopCd1
+        startPos: 6
+        endFlag: "/"
+      - field: etopsCd2
+        startPos: 11
+      - field: maxArv
+        startPos: 16
+        endFlag: "/"
+      - field: minArv
+        startPos: 21
+      - field: eet
+        startPos: 26
+      - field: wind1
+        startPos: 32
+        endFlag: "/"
+      - field: wind2
+        startPos: 37
+      - field: diverFuel
+        startPos: 49
+      - field: reqAltnFuel
+        startPos: 56
+      - field: lon
+        rowNum: 2
+        startPos: 6
+      - field: lat
+        rowNum: 2
+        startPos: 15
+      - field: beforeNm
+        rowNum: 2
+        startPos: 28

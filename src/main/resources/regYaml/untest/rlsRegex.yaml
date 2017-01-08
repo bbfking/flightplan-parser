@@ -1,0 +1,5 @@
+field: rlsText
+regex: "[\n|\\f]+(.*CHINA SOUTHERN AIRLINES[\\w\\W]*?)[\n]+.*START OF FLIGHT PLAN"
+regexBeans:
+  - field: std
+    regex: "DISPATCH RELEASE STD/(\\w*\\s{1,4}\\w*)"

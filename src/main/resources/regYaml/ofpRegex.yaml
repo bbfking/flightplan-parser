@@ -1,0 +1,248 @@
+field: ofpText
+regex: "[\\f|\n]+(.*START OF FLIGHT PLAN[\\w\\W]*END OF FLIGHT PLAN.*)[\n|\\f]+"
+# group默认为1
+regexBeans:
+  - field: ofpInfo
+    regex: "[\\f|\n]*(.*START OF FLIGHT PLAN[\\w\\W]*--------- TANKERING ---------.*[\\f|\n]*)"
+    regexBeans:
+      - field: clbSpeed
+        regex: "CLB(\\s{1,4})([\\w|/|.]*)(\\s{1,4})CRZ(\\s{1,5})([\\w|/|.]*)(\\s{1,4})DSC(\\s{1,4})([\\w|/|.]*)"
+        group: 2
+        # 如果没有regex，表示沿用上一个regex的结果,如dscSpeed就直接使用clbSpeed得出的结果，只是group不一样
+      - field: dscSpeed
+        group: 8
+      # 因为COD的Cil字段长度为5，实际长度可能超过5，所以先屏蔽提取Cil字段
+      # - field: cilSpeed
+      #  group: 5
+      - field: targetFuel
+        regex: "TARGET ARRIVAL FUEL\\s{1,10}(\\d*)"
+      - field: etow
+        regex: "ETOW\\s*(\\d*)"
+      - field: mtow
+        regex: "MTOW\\s*(\\d*)"
+      - field: eldw
+        regex: "ELDW\\s*(\\d*)"
+      - field: mldw
+        regex: "MLDW\\s*(\\d*)"
+      - field: ezfw
+        regex: "EZFW\\s*(\\d*)"
+      - field: mzfw
+        regex: "MZFW\\s*(\\d*)"
+      - field: epld
+        regex: "EPLD\\s*(\\d*)"
+      - field: apld
+        regex: "APLD\\s*(\\d*)"
+      # 提取 Dest time\fuel Begin
+      - field: reqdFuel
+        regex: "RSVR  FUEL\\s{1,4}(\\d*)\\s{1,4}(\\d*)"
+      - field: reqdTm
+        group: 2
+      - field: tripFuel
+        regex: "DEST\\s{1,4}\\w*\\s{1,4}(\\d*)\\s{1,4}(\\d*)"
+      - field: ete
+        group: 2
+      - field: altnFuel
+        regex: "ALTN\\s{1,4}\\w*\\s{1,4}(\\d*)\\s{1,4}(\\d*)"
+      - field: holdFuel
+        regex: "HOLD  FUEL\\s{1,4}(\\d*)\\s{1,4}(\\d*)"
+      - field: extrFuel
+        regex: "EXTR  FUEL\\s{1,4}(\\d*)\\s{1,4}(\\d*)"
+      - field: tkofFuel
+        regex: "TKOF  FUEL\\s{1,4}(\\d*)\\s{1,4}(\\d*)"
+      - field: taxiOutFuel
+        regex: "TAXI  OUTF\\s{1,4}(\\d*)\\s{1,4}(\\d*)"
+      - field: loadFuel
+        regex: "LOAD  FUEL\\s{1,4}(\\d*)\\s{1,4}(\\d*)"
+      # 提取高空风时间段、观察时间、飞行计划生成时间、签派员名称、签派员电话
+      - field: dispName
+        regex: "DISP\\s{1,3}([\\w| ]*)/([\\d|-]*)"
+      - field: dispPhone
+        group: 2
+      - field: wxprogTm
+        regex: "WX PROG([\\d| ]*)OBS([\\d| ]*)"
+      - field: obsDt
+        group: 2
+      - field: ofpNr
+        regex: "OFP ([\\w| |/]*)RLS([\\w| ]*)"
+      # 提取提取机尾号、机型、发动机、FuelBias
+      - field: tailNr
+        regex: "(ACFT\\s{1,5})(B\\w*)(\\s{1,5})([\\w|-]*)(\\s{0,2},\\s{0,2})([\\w|-]*)(\\s{1,30})(FUEL BIAS)(\\s{1,4})([\\w|.]*)"
+        group: 2
+      - field: eqpCd
+        group: 4
+      - field: engineNr
+        group: 6
+      - field: aircraftBias
+        group: 10
+      - field: cruiseFlDescription
+        regex: "FL\\s{1,5}(\\d.*)"
+      # 提取航路No、地面距离、空中距离
+      - field: routeNr
+        regex: "(ROUTE NO\\.)(\\s{0,2})(\\w*)(\\s{1,30})( GND/AIR DIST)(\\s{1,5})(\\w*)(\\s{1,5})NM(\\s{1,5})/(\\w*)"
+        group: 3
+      - field: gndDist
+        group: 7
+      - field: airDist
+        group: 10
+      # 提取航班号等信息
+      - field: alnCd
+        regex: "(CSN|CQN)(\\d{1,5})(\\D{0,1})"
+      - field: fltNr
+        group: 2
+      - field: fltSuffix
+        group: 3
+      - field: fltDt
+        regex: "(\\s{1,4})(\\w*)(\\s{1,4})(\\w{4})(\\s{1,4})(\\d{4})([-| ]*)(\\w{4})(\\s{1,4})(\\d{4})(\\s{1,4})ALTN(\\s{1,4})(\\w{4})"
+        group: 2
+      - field: depCd
+        group: 4
+      - field: depDt
+        group: 6
+      - field: arvCd
+        group: 8
+      - field: arvDt
+        group: 10
+      - field: altnCd
+        group: 13
+      - field: mel
+        regex: "MEL/CDL ITEMS.*[\\f|\n]+([\\w\\W]*?)[\n|\\f]+.*ALTERNATE SUMMARY"
+tableBeans:
+  - field: opfWayPoint
+    regex: "OAT              MORA        MTK/TTK TP.*[\\f|\n]+([\\w\\W]*?)[\n|\\f]+.*ARR ATIS:"
+    splitReg: "-{6,50}"
+    rows:
+      - field: flightlevel
+        startPos: 1
+      - field: ata
+        startPos: 6
+      - field: ztm
+        startPos: 10
+        endFlag: "/" #字符结束标志，默认为一个空格
+      - field: time
+        startPos: 15
+      - field: posn
+        startPos: 19
+      - field: eta
+        startPos: 25
+      - field: awy
+        startPos: 31
+      - field: dst
+        startPos: 39
+      - field: dtgo
+        startPos: 43
+      - field: mach
+        startPos: 49
+      - field: tas
+        startPos: 54
+      - field: wind
+        startPos: 58
+      - field: efr
+        startPos: 65
+      - field: oat
+        rowNum: 2
+        startPos: 1
+      - field: mora
+        rowNum: 2
+        startPos: 19
+      - field: mtk
+        rowNum: 2
+        startPos: 31
+      - field: tp
+        rowNum: 2
+        startPos: 39
+      - field: ws
+        rowNum: 2
+        startPos: 49
+      - field: gs
+        rowNum: 2
+        startPos: 54
+  - field: ofpLatLonAndGribPart
+    regex: "POS/FRQ \\|   COORD  \\| 100  \\| 250  \\| 310  \\| 330  \\| 350  \\| 370  \\| 390.*[\\f|\n]+([\\w\\W]*?)[\n|\\f]+.*        FL390       FL350       FL310       FL200       FL100"
+    splitReg: "--------\\|----------\\|------\\|------\\|------\\|------\\|------\\|------\\|------"
+    rows:
+      - field: wayPoint
+        startPos: 1
+      - field: coordLat
+        startPos: 12
+        endFlag: "|"
+      - field: fl100Tmp
+        startPos: 23
+        endFlag: "|"
+      - field: fl250Tmp
+        startPos: 30
+        endFlag: "|"
+      - field: fl310Tmp
+        startPos: 37
+        endFlag: "|"
+      - field: fl330Tmp
+        startPos: 44
+        endFlag: "|"
+      - field: fl350Tmp
+        startPos: 51
+        endFlag: "|"
+      - field: fl370Tmp
+        startPos: 58
+        endFlag: "|"
+      - field: fl390Tmp
+        startPos: 64
+        endFlag: "|"
+      - field: coordLon
+        rowNum: 2
+        startPos: 10
+        endFlag: "|"
+      - field: fl100Windu
+        rowNum: 2
+        startPos: 21
+        endFlag: "|"
+      - field: fl100Windv
+        rowNum: 2
+        startPos: 24
+        endFlag: "|"
+      - field: fl250Windu
+        rowNum: 2
+        startPos: 28
+        endFlag: "|"
+      - field: fl250Windv
+        rowNum: 2
+        startPos: 31
+        endFlag: "|"
+      - field: fl310Windu
+        rowNum: 2
+        startPos: 35
+        endFlag: "|"
+      - field: fl310Windv
+        rowNum: 2
+        startPos: 38
+        endFlag: "|"
+      - field: fl330Windu
+        rowNum: 2
+        startPos: 42
+        endFlag: "|"
+      - field: fl330Windv
+        rowNum: 2
+        startPos: 45
+        endFlag: "|"
+      - field: fl350Windu
+        rowNum: 2
+        startPos: 49
+        endFlag: "|"
+      - field: fl350Windv
+        rowNum: 2
+        startPos: 52
+        endFlag: "|"
+      - field: fl370Windu
+        rowNum: 2
+        startPos: 56
+        endFlag: "/"
+      - field: fl370Windv
+        rowNum: 2
+        startPos: 59
+        endFlag: "|"
+      - field: fl390Windu
+        rowNum: 2
+        startPos: 63
+        endFlag: "|"
+      - field: fl390Windv
+        rowNum: 2
+        startPos: 65
+        endFlag: "|"

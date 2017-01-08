@@ -1,0 +1,2 @@
+field: other
+regex: "CREW ALERT.*[\n|\\f]+([\\w\\W]*?)[\n|\\f]+D I S P A T C H  B R I E F I N G  I N F O"

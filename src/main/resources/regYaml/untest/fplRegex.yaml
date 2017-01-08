@@ -1,0 +1,2 @@
+field: fpl
+regex: "END OF FLIGHT PLAN.*[\n|\\f]+([\\w\\W]*?)[\n]+.*OFP SUMMARY"

@@ -1,0 +1,2 @@
+field: notam
+regex: "-NOTAM-BULLETIN INCLUDES NOTAM.*[\n|\\f]+([\\w\\W]*?)[\n|\\f]+.*END OF LIDO-NOTAM-BULLETIN"

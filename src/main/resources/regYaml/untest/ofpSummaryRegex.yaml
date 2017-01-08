@@ -1,0 +1,2 @@
+field: ofpSummary
+regex: "OFP SUMMARY.*[\n|\\f]+([\\w\\W]*?)[\n|\\f]+================="
